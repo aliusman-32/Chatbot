@@ -24,13 +24,13 @@
 
 ## 📁 Project Structure
 Chatbot/
-├── index.html # Main HTML UI
-├── index.js # JavaScript logic for chat, theme, and API
-├── output/
-│ └── output.css # Tailwind CSS file
-├── Assests/
-│ └── logo.png # Logo icon for chatbot header
-└── backend.ipynb # Optional backend notebook for testing
+├── index.html # Main HTML UI  
+├── index.js # JavaScript logic for chat, theme, and API  
+├── output/  
+│ └── output.css # Tailwind CSS file  
+├── Assests/   
+│ └── logo.png # Logo icon for chatbot header    
+└── backend.ipynb # Optional backend notebook for testing    
 
 **🧠 Powered By**
 🤗 Hugging Face Transformers
